@@ -1,7 +1,7 @@
 img {
   float:left;
 }
-p {font-size: 200%;
+p.about {font-size: 200%;
 }
 .sidebar {
   width:30%;
@@ -13,4 +13,8 @@ h1 {
 }
 h1 {
   text-align: center;
+}
+p.more {
+  width:300px;
+  float:left;
 }
