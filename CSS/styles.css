@@ -1,23 +1,24 @@
 img {
   float:left;
+  margin: 12px;
 }
+
 p.about {font-size: 200%;
 }
 .sidebar {
-  width:30%;
+  width:35%;
   float: left;
   background-color: #66799e
+
 }
+
 h1 {
   text-align: center;
   color:#66799e;
 }
-p.more {
-  float:none;
-  background-color: #66799e;
-}
+
 .border {
   margin: 12px;
-  border: 2px solid #66799e;
+  border: 3px solid #66799e;
   padding: 4px;
 }
